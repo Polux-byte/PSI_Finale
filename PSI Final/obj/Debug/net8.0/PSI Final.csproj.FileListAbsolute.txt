@@ -1,0 +1,49 @@
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\PSI Final.exe
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\PSI Final.deps.json
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\PSI Final.runtimeconfig.json
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\PSI Final.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\PSI Final.pdb
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\GraphX.Core.Controls.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\GraphX.Standard.Common.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\GraphX.Standard.Logic.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\QuickGraph.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\SkiaSharp.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\paulc\source\repos\PSI Final\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.csproj.AssemblyReference.cache
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.AssemblyInfoInputs.cache
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.AssemblyInfo.cs
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.csproj.CoreCompileInputs.cache
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.csproj.Up2Date
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.dll
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\refint\PSI Final.dll
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.pdb
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\PSI Final.genruntimeconfig.cache
+C:\Users\paulc\source\repos\PSI Final\obj\Debug\net8.0\ref\PSI Final.dll
