@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PSI Final")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb5c4c5a7ca6152ee60ce5a599c9347678c73d42")]
 [assembly: System.Reflection.AssemblyProductAttribute("PSI Final")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PSI Final")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
