@@ -1,0 +1,2 @@
+C:\Users\justi\Downloads\PSI 1\Tests_Rendu2\obj\Debug\Tests_Rendu2.csproj.AssemblyReference.cache
+C:\Users\justi\Downloads\PSI 1\Tests_Rendu2\obj\Debug\Tests_Rendu2.csproj.CoreCompileInputs.cache
